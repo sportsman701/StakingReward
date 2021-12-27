@@ -1,0 +1,14 @@
+{
+  "files": [
+    "/contracts"
+  ],
+  "devDependencies": {
+    "hardhat": "^2.8.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.1"
+  }
+}
